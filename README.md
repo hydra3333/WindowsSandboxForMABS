@@ -1,4 +1,6 @@
-# WindowsSandboxForMABS
+# WindowsSandboxForMABS   
+
+### this is an example only. it works for me.
 
 After download/edit of the .bat and .wsb, double-click on the .wsb to fire up a Windows Sandbox prepared for use by MABS.   
 
