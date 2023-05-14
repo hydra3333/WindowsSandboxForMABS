@@ -9,7 +9,7 @@ Last, when MABS has built, double-click on the auto-create `111-SAVE_mabs.bat` t
 #### Dependencies you can/must edit or delete:   
 
   1. Inside `dcw_sandbox_v02.wsb`   
-    1.1 `C:\software` is on the host and contains software folders, like NPP containing portable notepad++   
+    1.1 `C:\software` is on the host and contains software folders, like NPP containing portable Notepad++   
     1.2 `C:\software\WindowsSandbox` is on the host and contains `dcw_sandbox_v02.wsb` and `Setup_v02.bat`   
     1.3 `D:\VM\MABS` is on the host and, after you copy stuff into there, will contain the results of the MABS run   
     1.4 `C:\host_software\WindowsSandbox\Setup_v02.bat` is a file on the host and is auto-run by the .wsb inside newly created windows sandbox
