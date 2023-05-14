@@ -4,7 +4,7 @@ After download/edit of the .bat and .wsb, double-click on the .wsb to fire up a 
 
 First, double-click on the auto-created `000-RUNME_init_mabs.bat` to download and extract MABS ready to run.   
 
-Last, when MABS has built, double-click on the auto-create `111-SAVE_mabs.bat` to save the results back to the host, whereupon one can close the sandbox which erase eveything in it.   
+Last, when MABS has built, double-click on the auto-create `111-SAVE_mabs.bat` to save the results back to the host, whereupon one can close the sandbox whereupon the Microsoft Windows Sandbox product auto-erases eveything in the sandbox.   
 
 #### Dependencies you can/must edit or delete:   
 
