@@ -3,6 +3,8 @@
 ### this is an example only. it works for me.   
 ---
 
+Configure Windows to make Windows Sandbox available; Control Panel, Programs and Features, Turn Windows features On or Off, tick these: Virtual Machine Platform, Windows Hypervisor Platform, Windows Sandbox.    
+
 Download this git somwhere and get ready to create some folders and edit the 2 files to tell it where those folders are, then pop the 2 edited files into your equivalent of `C:\software\WindowsSandbox`.
 
 After download **and edit** of the .bat and .wsb, double-click on the .wsb to fire up a Windows Sandbox prepared for use by MABS.   
