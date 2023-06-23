@@ -1,6 +1,6 @@
 # WindowsSandboxForMABS   
 
-### this is an example only. it works for me.   
+### this is an example only.   
 ---
 
 Configure Windows to make Windows Sandbox available; Control Panel, Programs and Features, Turn Windows features On or Off, tick these: Virtual Machine Platform, Windows Hypervisor Platform, Windows Sandbox.    
@@ -11,7 +11,7 @@ After download **and edit** of the `.bat` and `.wsb`, double-click on the `.wsb`
 
 First, double-click on the auto-created `000-RUNME_init_mabs.bat` to download and extract MABS ready to run.   
 
-In the Windows Sandbox sandox, run the MABS build process in the normal way per https://github.com/m-ab-s/media-autobuild_suite
+In the Windows Sandbox, run the MABS build process in the normal way per https://github.com/m-ab-s/media-autobuild_suite
 
 Last, when MABS has built, double-click on the auto-create `111-SAVE_mabs.bat` to save the results back to the host, whereupon one can close the Sandbox whereupon the Microsoft Windows Sandbox product auto-erases eveything in the Sandbox.   
 
