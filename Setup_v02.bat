@@ -44,7 +44,7 @@ echo copy /Y /B /Z  C:\MABS\local64\bin-audio\flac.exe C:\HOST_MABS\exe_x64_py\ 
 echo copy /Y /B /Z  C:\MABS\local64\bin-audio\lame.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
 echo copy /Y /B /Z  C:\MABS\local64\bin-audio\sox.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
 echo copy /Y /B /Z  C:\MABS\local64\bin-global\cwebp.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
-echo copy /Y /B /Z  C:\MABS\local64\bin-global\debp.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
+echo copy /Y /B /Z  C:\MABS\local64\bin-global\dwebp.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
 echo copy /Y /B /Z  C:\MABS\local64\bin-global\webpinfo.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
 echo copy /Y /B /Z  C:\MABS\local64\bin-global\webpmux.exe C:\HOST_MABS\exe_x64_py\ >> "%f%"
 echo REM save our ini files etc back to the non-sandbox host >> "%f%"
