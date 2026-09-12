@@ -43,9 +43,9 @@ xcopy ".\exe_x64_py\mediainfo.exe" "C:\SOFTWARE\audacity\" /Y /E /V /F /G /H /R 
 REM xcopy ".\exe_x64_py\lame_enc.dll" "C:\SOFTWARE\audacity\" /Y /E /V /F /G /H /R /Z /C 
 REM ------------------------------------------------------------------------------------------
 REM ------------------------------------------------------------------------------------------
+REM C:\SOFTWARE\Vapoursynth-x64\DGIndex
 xcopy ".\exe_x64_py\ff*.exe" "C:\SOFTWARE\Vapoursynth-x64\" /Y /E /V /F /G /H /R /Z /C /exclude:xcopyexcludedfileslist1.txt
 xcopy ".\exe_x64_py\mediainfo.exe" "C:\SOFTWARE\Vapoursynth-x64\" /Y /E /V /F /G /H /R /Z /C /exclude:xcopyexcludedfileslist1.txt
-REM xcopy ".\exe_x64_py\ff*.exe" "C:\SOFTWARE\Vapoursynth-x64-noPython\" /Y /E /V /F /G /H /R /Z /C /exclude:xcopyexcludedfileslist1.txt
 REM ------------------------------------------------------------------------------------------
 REM comment-out copy to AVSPLUS370_x64 since avisynth 3.7.1 is out now and the new ffmpeg should go there not here
 REM ECHO comment-out copy to AVSPLUS370_x64 since avisynth 3.7.1 is out now and the new ffmpeg should go there not here
